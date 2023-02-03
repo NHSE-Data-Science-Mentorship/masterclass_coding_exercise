@@ -1,2 +1,2 @@
 # masterclass_coding_exercise
-Faculty - NHS Masterclass Series 2 - masterclass coding exercise
+Faculty - NHS Masterclass Series 1 - masterclass coding exercise
